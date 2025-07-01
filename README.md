@@ -3,15 +3,14 @@
 Welcome! This repository will help you dive into **LLM‑based autonomous agents** even if you have *zero* coding experience. ✨
 
 ---
-## 📁 Presentation Folder
-- **What’s inside?**  
-  An introduction to LLM‑powered autonomous agents, key components, common challenges, and real‑world use cases.  
-- **Wrap‑up slide:** A concise overview of the most popular frameworks for practical implementation.
+## 📁 Presentation Folder 
+- An introduction to LLM‑powered autonomous agents, key components, common challenges, and real‑world use cases.  
+-  A concise overview of the most popular frameworks for practical implementation.
 
 ---
 ## 🎛️ Demonstration Stack
 We use **[Langflow](https://www.langflow.org/)** 🧩 for all no‑code demonstrations.  
-Solutions built in Langflow can later be ported to other frameworks via simple API calls.
+Solutions built in Langflow can later be ported to other frameworks via API calls.
 
 **Ecosystem companions:**
 | Purpose | Tool | Link |
@@ -25,7 +24,7 @@ Solutions built in Langflow can later be ported to other frameworks via simple A
 > **Hands‑on note:** All tutorials below assume you are using Langflow.
 
 ---
-## ☁️ Getting Started — No Installation Needed 😎
+## ☁️ Getting Started — No Installation Needed
 1. Head to the **[DataStax Cloud signup](https://www.datastax.com/)** page.  
 2. Create a free account.  
 3. Launch Langflow directly in your browser—no local setup required!
