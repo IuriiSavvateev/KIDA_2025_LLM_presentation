@@ -1,6 +1,6 @@
-# 🚀 LLM‑Based Agentic Modelling Starter Pack
+# 🤖 LLM‑Based Agentic Modelling Starter Pack
 
-Welcome! This repository will help you dive into **LLM‑based autonomous agents** even if you have *zero* coding experience. ✨
+Welcome! This repository will help you dive into **LLM‑based autonomous agents** even if you have *zero* coding experience. 
 
 ---
 ## 📁 Presentation Folder 
