@@ -31,6 +31,7 @@ Solutions built in Langflow can later be ported to other frameworks via API call
 
 ---
 ## 🏋️‍♂️ Exercises Overview (Ex 1 – Ex 3)
+Langflow saves the flows in json files, featuring the location of the blocks and their content. You need to upload the provided flow to your langflow environment to open it.
 
 ### Ex 1 — Memory‑Enabled Chatbot 🧠
 Build an agent that **retains** past conversation context and responds coherently.
