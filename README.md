@@ -1,6 +1,7 @@
-# 🤖 LLM‑Based Agentic Modelling Starter Pack
+# 🤖 LLM‑Based Agentic Modelling with Langflow
 
-Welcome! This repository will help you dive into **LLM‑based autonomous agents** even if you have *zero* coding experience. 
+This repository will help you dive into **LLM‑based autonomous agents** even if you have *zero* coding experience. 
+The repository provides additional information and hands-on exercises for the **[KIDA Online-Workshop: AI-based autonomous agents - What, why and how?]**(https://www.kida-bmel.de/veranstaltungen/archiv)
 
 ---
 ## 📁 Presentation Folder 
